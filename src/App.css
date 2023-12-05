@@ -52,3 +52,13 @@ main button:hover{
   max-width: 300px;
   padding: 20px;
 }
+
+@media(max-width: 840px){
+  main{
+      background-color: white;
+      padding: 50px;
+      max-width: 250px;
+      margin: 20px auto;
+      text-align: center;
+      border-radius: 20px;
+  }}
